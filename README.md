@@ -4,33 +4,6 @@ Application de simulation de crédit avec un assistant IA conversationnel.
 
 ## 🚀 Déploiement rapide (Streamlit Cloud - GRATUIT)
 
-### Méthode 1 : Via GitHub (Recommandé)
-
-1. **Crée un compte GitHub** : https://github.com/signup
-
-2. **Crée un nouveau repository** :
-   - Clique sur "New repository"
-   - Nom : `creditscore-pro`
-   - Laisse en Public
-   - Clique "Create repository"
-
-3. **Upload les fichiers** :
-   - Clique "uploading an existing file"
-   - Dépose `app.py` et `requirements.txt`
-   - Clique "Commit changes"
-
-4. **Déploie sur Streamlit Cloud** :
-   - Va sur https://share.streamlit.io/
-   - Connecte-toi avec GitHub
-   - Clique "New app"
-   - Sélectionne ton repo `creditscore-pro`
-   - Main file : `app.py`
-   - Clique "Deploy!"
-
-5. **Ton app est en ligne !** 🎉
-   - URL : `https://ton-username-creditscore-pro.streamlit.app`
-
----
 
 ## 💻 Lancer en local
 
@@ -38,7 +11,7 @@ Application de simulation de crédit avec un assistant IA conversationnel.
 - Python 3.8+
 - Une clé API Anthropic
 
-### Installation
+### Pour l'Installation
 
 ```bash
 # Clone ou télécharge les fichiers
