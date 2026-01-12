@@ -2,7 +2,9 @@
 
 **Simulateur de crédit intelligent avec IA conversationnelle**
 
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://creditscore-llm.streamlit.app)
+[![Clé API Anthropic](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) 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
